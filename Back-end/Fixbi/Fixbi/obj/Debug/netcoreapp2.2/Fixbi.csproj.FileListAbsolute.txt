@@ -1,0 +1,14 @@
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\bin\Debug\netcoreapp2.2\Fixbi.deps.json
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\bin\Debug\netcoreapp2.2\Fixbi.runtimeconfig.json
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\bin\Debug\netcoreapp2.2\Fixbi.runtimeconfig.dev.json
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\bin\Debug\netcoreapp2.2\Fixbi.dll
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.csprojAssemblyReference.cache
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.RazorAssemblyInfo.cache
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.RazorAssemblyInfo.cs
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.AssemblyInfoInputs.cache
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.AssemblyInfo.cs
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\bin\Debug\netcoreapp2.2\Fixbi.pdb
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.dll
+C:\Users\Daniel Roncaglia\Desktop\Daniel\Academia\Univesp\2019\Trabalho de Conclusão de Curso\Fixbi\Banco de Dados\Fixbi\Fixbi\obj\Debug\netcoreapp2.2\Fixbi.pdb

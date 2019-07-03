@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
+        "projectName": "Fixbi",
+        "projectPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
+        "packagesPath": "C:\\Users\\Daniel Roncaglia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daniel Roncaglia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
