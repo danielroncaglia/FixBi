@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {}
+    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\TCC\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {
+    "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\TCC\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\TCC\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
         "projectName": "Fixbi",
-        "projectPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
+        "projectPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\TCC\\Fixbi\\Back-end\\Fixbi\\Fixbi\\Fixbi.csproj",
         "packagesPath": "C:\\Users\\Daniel Roncaglia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\Trabalho de Conclusão de Curso\\Fixbi\\Back-end\\Fixbi\\Fixbi\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Roncaglia\\Desktop\\Daniel\\Academia\\Univesp\\2019\\TCC\\Fixbi\\Back-end\\Fixbi\\Fixbi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
